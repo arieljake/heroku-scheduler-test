@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/arieljake/heroku-scheduler-test#readme",
   "dependencies": {
+    "coffee-script": "^1.10.0",
     "sendgrid": "^2.0.0"
   }
 }

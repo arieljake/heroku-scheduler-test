@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/app/node_modules/coffee-script/bin/coffee
 
-var svc = require("../src/sendMeAnEmailService");
-svc();
+svc = require "../src/sendMeAnEmailService"
+svc()
