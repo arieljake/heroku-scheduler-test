@@ -1,0 +1,6 @@
+#!/app/node_modules/coffee-script/bin/coffee
+
+[cmd, file, job, args...] = process.argv
+
+job = require("../src/jobs/#{job}")
+job args...

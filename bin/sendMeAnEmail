@@ -1,4 +1,0 @@
-#!/app/node_modules/coffee-script/bin/coffee
-
-svc = require "../src/sendMeAnEmailService"
-svc()
