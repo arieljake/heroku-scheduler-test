@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arieljake/heroku-scheduler-test/issues"
   },
-  "homepage": "https://github.com/arieljake/heroku-scheduler-test#readme"
+  "homepage": "https://github.com/arieljake/heroku-scheduler-test#readme",
+  "dependencies": {
+    "sendgrid": "^2.0.0"
+  }
 }
