@@ -6,8 +6,8 @@ var sendgrid = require('sendgrid')(
 );
 
 var email = {
-    to: 'my@email.com',
-    from: 'app@email.com',
+    to: 'arieljake@gmail.com',
+    from: 'arieljake@gmail.com',
     subject: 'There are some items to do',
     text: 'You have items to do'
 };
